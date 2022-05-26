@@ -1,11 +1,13 @@
 alembic==1.7.7
 anyio==3.5.0
 asgiref==3.5.0
+bcrypt==3.2.2
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
 click==8.0.4
 colorama==0.4.4
+cryptography==37.0.2
 dnspython==2.2.1
 ecdsa==0.17.0
 email-validator==1.2.1
@@ -33,7 +35,7 @@ rsa==4.8
 six==1.16.0
 sniffio==1.2.0
 SQLAlchemy==1.4.36
-starlette==0.17.1
+starlette==0.19.1
 typing_extensions==4.1.1
 ujson==4.3.0
 urllib3==1.26.9
